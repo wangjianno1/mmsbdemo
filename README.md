@@ -1,2 +1,2 @@
 # mmsbdemo
-SpringBoot2 demo
+SpringBoot2 demo.
