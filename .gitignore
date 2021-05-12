@@ -30,3 +30,5 @@ bin/
 *.loga
 .idea
 *.iml
+*.ipr
+*.iws
