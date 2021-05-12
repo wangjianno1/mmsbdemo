@@ -17,6 +17,7 @@
   <modules>
     <module>mmsbdemo-common</module>
     <module>mmsbdemo-web</module>
+    <module>mmsbdemo-service</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -39,7 +40,6 @@
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
-
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-test</artifactId>
